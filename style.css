@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(23, 62, 107);
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h1{
+    color: white;
+}
+
+section{
+    background-color: white;
+    width: 300px;
+    height: 280px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px black;
+    padding: 5px;
+}
+
+#resultado{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 80px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#vt,
+#vd{
+    margin-left: 5px;
+}
+
+footer{
+    color: white;
+}
